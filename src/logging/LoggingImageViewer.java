@@ -52,8 +52,7 @@ public class LoggingImageViewer {
  */
 class ImageViewerFrame extends JFrame
 {
-    private static final int DEFAULT_W = 100;
-    private static final int DEFAULT_WIDTH = 100;
+    private static final int DEFAULT_WIDTH = 200;
     private static final int DEFAULT_HEIGHT = 400;
 
     private JLabel label;
